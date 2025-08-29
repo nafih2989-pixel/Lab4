@@ -5,8 +5,8 @@ int main() {
     // complete this code in order to make it output
     // the numbers 1-100
 
-    for ()
+    for (int i=1; i<=100; i+=1){
         cout << i << " ";
-
+    }
     return 0;
 }
