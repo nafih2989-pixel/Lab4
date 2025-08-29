@@ -1,3 +1,6 @@
+// COMSC-210 | Lab 4 | Mehraj Hasan Nafi
+// IDE used: Visual Studio Code
+
 #include <iostream>
 using namespace std;
 
